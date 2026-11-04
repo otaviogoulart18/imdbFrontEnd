@@ -1,0 +1,6 @@
+{
+  "name": "IMDb ML Predictor Dashboard",
+  "description": "Dashboard cinematográfico moderno para predição de filmes de alta avaliação (IMDb >= 8.0) utilizando modelo de Machine Learning com SVM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
